@@ -6,32 +6,32 @@
 - VisualStudio2022
 - of_v0.11.2_vs2017_release
 
-### ofxDStudio/ofxDasySP
+## ofxDStudio/ofxDasySP
 - コンパイル不可
 
-### ofxATK
+## ofxATK
 - 64bitではコンパイル不可
 - 32bitではコンパイル可能
 - Reverbを再生した結果音割れが激しい
 
-### ofxSoundObject 
+## ofxSoundObject 
 - コンパイル可能
 - Reverbは無い
 
-### ofxTonic
+## ofxTonic
 - 未調査
 
-### ofxFmod3DSoundPlayer
+## ofxFmod3DSoundPlayer
 - コンパイル可能
 - Reverbは無い
 - XY軸に対応して音像の位置が動く
 
-### ofxMaxim
+## ofxMaxim
 - https://github.com/rychrd/ofxMaxim.git
 - このリポジトリでコンパイル可能
 
-### ofxReverb
+## ofxReverb
 - コンパイル可能（Releaseのみ）
 
-### ofxPDSP
+## ofxPDSP
 - 未調査
