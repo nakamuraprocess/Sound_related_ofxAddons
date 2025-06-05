@@ -2,12 +2,11 @@
 サウンド関連のofxAddonの調査状況
 
 ## 実行環境
-Windows10 64bit
-VisualStudio2022
-of_v0.11.2_vs2017_release
+- Windows10 64bit
+- VisualStudio2022
+- of_v0.11.2_vs2017_release
 
-### ofxDStudio
-### ofxDasySP
+### ofxDStudio/ofxDasySP
 - コンパイル不可
 
 ### ofxATK
