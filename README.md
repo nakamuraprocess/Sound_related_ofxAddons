@@ -14,7 +14,7 @@
 - 32bitではコンパイル可能
 - Reverbを再生した結果音割れが激しい
 
-### ofSoundObject 
+### ofxSoundObject 
 - コンパイル可能
 - Reverbは無い
 
