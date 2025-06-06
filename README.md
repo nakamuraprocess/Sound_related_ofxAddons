@@ -26,6 +26,10 @@
 - Reverbは無い
 - XY軸に対応して音像の位置が動く
 
+## ofxFmodSoundPlayer2
+- コンパイル不可
+- FMODが古い？
+
 ## ofxMaxim
 - https://github.com/rychrd/ofxMaxim.git
 - このリポジトリでコンパイル可能
